@@ -15,6 +15,9 @@
     "jobTitle": {
       "type": "string"
     },
+    "applyNowUrl": {
+      "type": "string"
+    },
     "location": {
       "type": "string"
     },
